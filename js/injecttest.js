@@ -37,7 +37,7 @@
 
     var output = function(msg){
         console.log(msg);
-        alert(msg);
+        //alert(msg);
     }
 
     var initWebChannel = function(fn) {
