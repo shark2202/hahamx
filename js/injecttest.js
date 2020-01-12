@@ -33,7 +33,7 @@
         }
     }
 
-    injectJs("myqwebchannel","qrc:///qtwebchannel/qwebchannel.js");
+    injectJs("myqwebchannel","https://zd04.github.io/hahamx/js/qwebchannel.js");
 
     var output = function(msg){
         console.log(msg);
@@ -105,7 +105,7 @@
     //injectCss("layxcss","qrc:///layx/js/layx/layx.min.css");
     //injectJs("layx","qrc:///layx/js/layx/layx.min.js");
 
-    injectJs("myhaha","qrc:///js/hahamx.js");
+    injectJs("myhaha","https://zd04.github.io/hahamx/js/hahamx.js");
 
 //    var input = document.getElementById("kw");
 //    input.value = "this is a test";
